@@ -36,7 +36,7 @@ GitHub sayfasındaki "Code" butonuna tıklayıp "Download ZIP" seçeneği ile do
 2. MySQL Workbench Yapılandırması
 •	MySQL Workbench'i açın.
 •	"Server" -> "Data Import" menüsünden projedeki taskflow_database.sql dosyasını seçin.
-•	taskflow_db adında bir şema oluşturup "Start Import" butonuna basın.
+•	taskflow adında bir şema oluşturup "Start Import" butonuna basın.
 
 3. Bağlantı Ayarları
 src/DBConnection.java dosyasını açıp kendi Workbench bilgilerinizi girin:
