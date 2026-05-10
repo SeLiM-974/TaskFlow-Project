@@ -1,8 +1,11 @@
 TaskFlow | Akıllı Görev Yönetim Sistemi 🚀
 
+
 TaskFlow, Java Swing ve MySQL kullanılarak geliştirilmiş, nesne yönelimli programlama (OOP) prensiplerini temel alan profesyonel bir görev takip otomasyonudur. Proje; sürdürülebilir bir mimari ile görsel zenginliği (GUI) birleştiren, kullanıcı odaklı bir masaüstü uygulamasıdır.
 
+
 🌟 Öne Çıkan Özellikler
+
 •	Özgün GUI Tasarımı: Standart Swing görünümünden uzak, Graphics2D ve GradientPaint kütüphaneleri kullanılarak kodlanmış, modern ve kurumsal arayüzler.
 
 •	Kullanıcıya Özel Dashboard: Her kullanıcı sadece kendi oluşturduğu görevleri görür; veritabanı "Kişi-Görev" ilişkisi üzerine kurulmuştur.
@@ -13,7 +16,9 @@ TaskFlow, Java Swing ve MySQL kullanılarak geliştirilmiş, nesne yönelimli pr
 
 •	Kendi Kendine Yeten Sistem: Uygulama içerisindeki formlar aracılığıyla yeni görevler eklenebilir ve yayınlanabilir; veritabanına (Workbench) manuel müdahale gerektirmez.
 
+
 🛠️ Gereksinimler
+
 •	Java JDK: 8 veya üzeri.
 
 •	Veritabanı: MySQL Server (Yönetim için MySQL Workbench).
@@ -21,6 +26,7 @@ TaskFlow, Java Swing ve MySQL kullanılarak geliştirilmiş, nesne yönelimli pr
 •	JDBC Driver: MySQL Connector (Proje ana dizininde mevcuttur).
 
 •	IDE: Eclipse veya IntelliJ IDEA.
+
 
 ⚙️ Kurulum ve Çalıştırma
 
